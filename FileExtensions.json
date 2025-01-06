@@ -1,0 +1,446 @@
+{
+  ".aac": {
+    "Extension": ".aac",
+    "FullName": "Advanced Audio Coding",
+    "Description": "A file format for storing music or other sounds.",
+    "Group": "Windows OS, Audiofiles"
+  },
+  ".adc": {
+    "Extension": ".adc",
+    "FullName": "Color Bitmap Graphic",
+    "Description": "A file format for storing music or other sounds.",
+    "Group": "Windows OS, Audiofiles"
+  },
+  ".adts": {
+    "Extension": ".adts",
+    "FullName": "Audio Data Transport Stream",
+    "Description": "A file format for storing music or other sounds.",
+    "Group": "Windows OS, Audiofiles"
+  },
+  ".accdb": {
+    "Extension": ".accdb",
+    "FullName": "Microsoft Access database file",
+    "Description": "The Microsoft Access Database is the standard database format of Microsoft Access.",
+    "Group": "Windows OS, Office"
+  },
+  ".accde": {
+    "Extension": ".accde",
+    "FullName": "Microsoft Access execute-only file",
+    "Description": "The file extension for Office Access 2007 files that are in 'execute only' mode.",
+    "Group": "Windows OS, Office"
+  },
+  ".aif": {
+    "Extension": ".aif",
+    "FullName": "Audio Interchange File",
+    "Description": "A file format (container format) for saving LPCM audio data.",
+    "Group": "Windows OS, Audiofiles"
+  },
+  ".aspx": {
+    "Extension": ".aspx",
+    "FullName": "ASP.NET Active Server page",
+    "Description": "A web application framework from Microsoft. \n\n It can be used to develop dynamic websites, web applications and web services.",
+    "Group": "Windows OS, Internet"
+  },
+  ".avi": {
+    "Extension": ".avi",
+    "FullName": "Audio Video Interleave",
+    "Description": "A video container format defined by the software manufacturer Microsoft.",
+    "Group": "Windows OS, Audiofiles"
+  },
+  ".bat": {
+    "Extension": ".bat",
+    "FullName": "Batch file",
+    "Description": "A batch file is a script file in DOS, OS/2 and Microsoft Windows. \n\n It is loaded and executed directly by the operating system.",
+    "Group": "Windows OS"
+  },
+  ".bin": {
+    "Extension": ".bin",
+    "FullName": "Binary compressed file",
+    "Description": "A computer file that is not a text file but can contain any bit pattern. \n\n Binary Code is often stored inside (Like program code).",
+    "Group": "Windows OS"
+  },
+  ".bmp": {
+    "Extension": ".bmp",
+    "FullName": "Bitmap file",
+    "Description": "A raster graphics image file format used to store bitmap digital images. \n\n independently of the display device.",
+    "Group": "Windows OS, Photo/Video"
+  },
+  ".cab": {
+    "Extension": ".cab",
+    "FullName": "Windows Cabinet file",
+    "Description": "The CAB file format is a format for compressed archiving of files.",
+    "Group": "Windows OS, Compression"
+  },
+  ".cda": {
+    "Extension": ".cda",
+    "FullName": "Compact Disc Audio",
+    "Description": "Compact Disc Audio is the file name extension \n\n commonly used under Microsoft Windows to represent the individual audio tracks on audio CDs.",
+    "Group": "Windows OS, Audiofiles"
+  },
+  ".dll": {
+    "Extension": ".dll",
+    "FullName": "Dynamic link library",
+    "Description": "Dynamic Link Library generally refers to a dynamic program library. \n\n Various programs can access this file, which contains program code that is used by the programs.",
+    "Group": "Windows OS"
+  },
+  ".doc": {
+    "Extension": ".doc",
+    "FullName": "Microsoft Word document before Word 2007",
+    "Description": "A Microsoft Word Document.",
+    "Group": "Windows OS, Office"
+  },
+  ".docm": {
+    "Extension": ".docm",
+    "FullName": "Microsoft Word macro-enabled document",
+    "Description": "A Microsoft Word document with a enabled macro.",
+    "Group": "Windows OS, Office"
+  },
+  ".docx": {
+    "Extension": ".docx",
+    "FullName": "Word Document after 2007",
+    "Description": "A Microsoft Word Document. (Newer Version)",
+    "Group": "Windows OS, Office"
+  },
+  ".exe": {
+    "Extension": ".exe",
+    "FullName": "Executable program file",
+    "Description": "File name extension for executable files under the operating systems DOS, Windows, OS/2 and OpenVMS.",
+    "Group": "Windows OS, Other OS"
+  },
+  ".gif": {
+    "Extension": ".gif",
+    "FullName": "Graphical Interchange Format file",
+    "Description": "It is a raster format designed for relatively simple images that are mainly presented on the web. \n\n GIF files support color depths of up to 8 bits per pixel and can contain 256 indexed colors.",
+    "Group": "Windows OS, Other OS, Photo/Video"
+  },
+  ".htm": {
+    "Extension": ".htm",
+    "FullName": "Hypertext markup language page",
+    "Description": "A text-based markup language for structuring documents such as texts with hyperlinks, images etc. \n\n HTML documents are the basis of the World Wide Web and are displayed by web browsers.",
+    "Group": "Windows OS, Other OS, Internet"
+  },
+  ".html": {
+    "Extension": ".html",
+    "FullName": "Hypertext markup language page",
+    "Description": "A text-based markup language for structuring documents such as texts with hyperlinks, images etc. \n\n HTML documents are the basis of the World Wide Web and are displayed by web browsers.",
+    "Group": "Windows OS, Other OS, Internet"
+  },
+  ".ini": {
+    "Extension": ".ini",
+    "FullName": "Windows initialization configuration file",
+    "Description": "An initialization file is a text file that contains key-value pairs that may be divided into sections. \n\n Initialization files are typically used by Microsoft Windows applications as configuration files.",
+    "Group": "Windows OS"
+  },
+  ".iso": {
+    "Extension": ".iso",
+    "FullName": "Identical storage image of optical media",
+    "Description": "An ISO contains all the same data you would transfer when copying data to CD, DVD, or Blu-ray. \n\n It can be read as if you were putting in the CD into the computers CD slot.",
+    "Group": "Windows OS"
+  },
+  ".jar": {
+    "Extension": ".jar",
+    "FullName": "Java archive file",
+    "Description": "A package file format typically used to aggregate many Java class files \n\n and associated metadata and resources (text, images, etc.) into one file for distribution.",
+    "Group": "Windows OS, Other OS, Compression, Programming-Language"
+  },
+  ".jpg": {
+    "Extension": ".jpg",
+    "FullName": "jpg also jpeg stands for Joint Photographic Experts Group",
+    "Description": "The JPEG/JPG file type is one of the world's most widely used image file formats. \n\n Able to compress impressive detail into a shareable file size.",
+    "Group": "Windows OS, Other OS, Photo/Video"
+  },
+  ".jpeg": {
+    "Extension": ".jpeg",
+    "FullName": "jpeg also jpg stands for Joint Photographic Experts Group",
+    "Description": "The JPEG/JPG file type is one of the world's most widely used image file formats. \n\n Able to compress impressive detail into a shareable file size.",
+    "Group": "Windows OS, Other OS, Photo/Video"
+  },
+  ".m4a": {
+    "Extension": ".m4a",
+    "FullName": "MPEG-4 Audio",
+    "Description": "MPEG-4 Audio, or M4A for short, is an audio file format from Apple. \n\n It can store several audio content types, including songs, audiobooks, and podcasts.",
+    "Group": "Windows OS, Other OS, Audio"
+  },
+  ".mdb": {
+    "Extension": ".mdb",
+    "FullName": "Microsoft Access Databank (before 2007)",
+    "Description": "Is used by Microsoft as a native format for its Microsoft Access desktop database management system.",
+    "Group": "Windows OS, Office"
+  },
+  ".mov": {
+    "Extension": ".mov",
+    "FullName": "Also QuickTime multimedia file format",
+    "Description": "MOV is a video format that was developed by Apple. It's an MPEG 4 video container file. \n\n An MOV video can hold many different video formats and multimedia — audio, video, and text — in the same file.",
+    "Group": "Windows OS, Other OS, Photo/Video, Audio"
+  },
+  ".mp3": {
+    "Extension": ".mp3",
+    "FullName": "MPEG Layer 3 Audio",
+    "Description": "A coding format for digital audio. MP3 is a common audio format for consumer audio streaming or storage.",
+    "Group": "Windows OS, Other OS, Audio"
+  },
+  ".mp4": {
+    "Extension": ".mp4",
+    "FullName": "MPEG-4 Part 14",
+    "Description": "A digital multimedia format most commonly used to store video and audio. \n\n But can also be used to store other data such as subtitles and still images.",
+    "Group": "Windows OS, Other OS, Photo/Video, Audio"
+  },
+  ".pdf": {
+    "Extension": ".pdf",
+    "FullName": "Portable Document Format",
+    "Description": "A file format developed by Adobe to present documents, including text formatting and images. \n\n Independent of application software, hardware, and operating systems.",
+    "Group": "Windows OS, Other OS, Document"
+  },
+  ".png": {
+    "Extension": ".png",
+    "FullName": "Portable Network Graphics",
+    "Description": "A raster-graphics file format that supports lossless data compression. PNG was created as an improved, non-patented replacement for GIF.",
+    "Group": "Windows OS, Other OS, Photo/Video"
+  },
+  ".ppt": {
+    "Extension": ".ppt",
+    "FullName": "PowerPoint Presentation",
+    "Description": "A file format used by Microsoft PowerPoint for saving slide show presentations.",
+    "Group": "Windows OS, Office"
+  },
+  ".pptx": {
+    "Extension": ".pptx",
+    "FullName": "PowerPoint Open XML Presentation",
+    "Description": "A file format used by Microsoft PowerPoint, based on the Office Open XML standard.",
+    "Group": "Windows OS, Office"
+  },
+  ".rar": {
+    "Extension": ".rar",
+    "FullName": "Roshal Archive",
+    "Description": "A proprietary archive file format that supports data compression, error recovery, and file spanning.",
+    "Group": "Windows OS, Other OS, Compression"
+  },
+  ".7z": {
+    "Extension": ".7z",
+    "FullName": "7-Zip Archive",
+    "Description": "A compressed file format used by the 7-Zip archiver. Known for high compression ratios.",
+    "Group": "Windows OS, Other OS, Compression"
+  },
+  ".tar.gz": {
+    "Extension": ".tar.gz",
+    "FullName": "Tarball with Gzip compression",
+    "Description": "A file format used for compression, often found in UNIX/Linux environments. The .tar file is first created and then compressed with gzip.",
+    "Group": "Linux OS, macOS, Other OS, Compression"
+  },
+  ".tar.bz2": {
+    "Extension": ".tar.bz2",
+    "FullName": "Tarball with Bzip2 compression",
+    "Description": "A compressed archive format combining tar archiving with bzip2 compression, often used in Linux and UNIX environments.",
+    "Group": "Linux OS, macOS, Other OS, Compression"
+  },
+  ".tar.xz": {
+    "Extension": ".tar.xz",
+    "FullName": "Tarball with XZ compression",
+    "Description": "A compression format similar to .tar.gz, but using XZ compression, which often results in higher compression ratios.",
+    "Group": "Linux OS, macOS, Other OS, Compression"
+  },
+  ".svg": {
+    "Extension": ".svg",
+    "FullName": "Scalable Vector Graphics",
+    "Description": "An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.",
+    "Group": "Windows OS, Other OS, Photo/Video"
+  },
+  ".sys": {
+    "Extension": ".sys",
+    "FullName": "System File",
+    "Description": "A system file is a critical computer file without which a computer system may not operate correctly. \n\n These files are often related to the operating system.",
+    "Group": "Windows OS"
+  },
+  ".tar": {
+    "Extension": ".tar",
+    "FullName": "Tape Archive",
+    "Description": "A computer file format for storing a group of files in a single archive file, often used for distribution or backup purposes.",
+    "Group": "Windows OS, Other OS, Compression"
+  },
+  ".txt": {
+    "Extension": ".txt",
+    "FullName": "Text File",
+    "Description": "A standard text document that contains unformatted text. \n\n It is recognized by any text editing or word processing program.",
+    "Group": "Windows OS, Other OS, Document"
+  },
+  ".wav": {
+    "Extension": ".wav",
+    "FullName": "Waveform Audio File Format",
+    "Description": "An audio file format standard for storing an audio bitstream on PCs. It is a common format for audio data.",
+    "Group": "Windows OS, Other OS, Audio"
+  },
+  ".wma": {
+    "Extension": ".wma",
+    "FullName": "Windows Media Audio",
+    "Description": "An audio format developed by Microsoft, used for both streaming and downloading audio files.",
+    "Group": "Windows OS, Audio"
+  },
+  ".wmv": {
+    "Extension": ".wmv",
+    "FullName": "Windows Media Video",
+    "Description": "A video compression format developed by Microsoft, used for both streaming and downloading video files.",
+    "Group": "Windows OS, Photo/Video"
+  },
+  ".xls": {
+    "Extension": ".xls",
+    "FullName": "Microsoft Excel Worksheet before 2007",
+    "Description": "A spreadsheet document format used by Microsoft Excel.",
+    "Group": "Windows OS, Office"
+  },
+  ".xlsx": {
+    "Extension": ".xlsx",
+    "FullName": "Microsoft Excel Worksheet after 2007",
+    "Description": "A spreadsheet document format used by Microsoft Excel, based on the Office Open XML standard.",
+    "Group": "Windows OS, Office"
+  },
+  ".xml": {
+    "Extension": ".xml",
+    "FullName": "Extensible Markup Language",
+    "Description": "A markup language that defines a set of rules for encoding documents \n\n in a format that is both human-readable and machine-readable.",
+    "Group": "Windows OS, Other OS, Document"
+  },
+  ".zip": {
+    "Extension": ".zip",
+    "FullName": "ZIP Archive",
+    "Description": "A file format used for archiving and compressing one or more files. \n\n Allowing for reduced storage space and faster file transfer.",
+    "Group": "Windows OS, Other OS, Compression"
+  },
+  ".gzip": {
+    "Extension": ".gzip",
+    "FullName": "Gzip Compression File",
+    "Description": "A file format used for compression. \n\n Gzip is commonly used in Linux/UNIX environments to compress large files.",
+    "Group": "Linux OS, macOS, Other OS, Compression"
+  },
+  ".xz": {
+    "Extension": ".xz",
+    "FullName": "XZ Compressed File",
+    "Description": "A high-compression file format, often used in UNIX/Linux systems,\n\n providing better compression ratios than other formats like gzip or bzip2.",
+    "Group": "Linux OS, macOS, Other OS, Compression"
+  },
+  ".dmg": {
+    "Extension": ".dmg",
+    "FullName": "Disk Image",
+    "Description": "A disk image format used by macOS to distribute software.",
+    "Group": "macOS, Compression"
+  },
+  ".apk": {
+    "Extension": ".apk",
+    "FullName": "Android Package",
+    "Description": "Package file format used by the Android operating system for distribution and installation of mobile apps.",
+    "Group": "Android OS"
+  },
+  ".deb": {
+    "Extension": ".deb",
+    "FullName": "Debian Software Package",
+    "Description": "A software package format used by the Debian Linux distribution and its derivatives.",
+    "Group": "Linux OS"
+  },
+  ".rpm": {
+    "Extension": ".rpm",
+    "FullName": "Red Hat Package Manager",
+    "Description": "A software package format used by Red Hat Linux and its derivatives.",
+    "Group": "Linux OS"
+  },
+  ".psd": {
+    "Extension": ".psd",
+    "FullName": "Photoshop Document",
+    "Description": "A layered image file used in Adobe Photoshop.",
+    "Group": "Windows OS, macOS, Photo/Video"
+  },
+  ".sh": {
+    "Extension": ".sh",
+    "FullName": "Shell Script",
+    "Description": "A script file for UNIX-based operating systems.",
+    "Group": "Linux OS, macOS"
+  },
+  ".py": {
+    "Extension": ".py",
+    "FullName": "Python Script",
+    "Description": "A script file written in Python programming language.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".java": {
+    "Extension": ".java",
+    "FullName": "Java Source File",
+    "Description": "A file containing Java source code.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".rb": {
+    "Extension": ".rb",
+    "FullName": "Ruby Script",
+    "Description": "A file containing Ruby source code.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".pl": {
+    "Extension": ".pl",
+    "FullName": "Perl Script",
+    "Description": "A file containing Perl source code.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".swift": {
+    "Extension": ".swift",
+    "FullName": "Swift Source File",
+    "Description": "A file containing Swift source code.",
+    "Group": "macOS, Programming-Language"
+  },
+  ".rs": {
+    "Extension": ".rs",
+    "FullName": "Rust Source File",
+    "Description": "A file containing Rust source code. Rust is a systems programming language designed to be safe, fast, and concurrent.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".scala": {
+    "Extension": ".scala",
+    "FullName": "Scala Source File",
+    "Description": "A file containing Scala source code. \n\n Scala is a programming language that fuses functional and object-oriented programming paradigms.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".ts": {
+    "Extension": ".ts",
+    "FullName": "TypeScript Source File",
+    "Description": "A file containing TypeScript code. \n\n TypeScript is a superset of JavaScript that adds static types and is compiled to plain JavaScript.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".vb": {
+    "Extension": ".vb",
+    "FullName": "Visual Basic Source Code File",
+    "Description": "A file containing Visual Basic source code, \n\n a programming language developed by Microsoft, typically used for Windows application development.",
+    "Group": "Windows OS, Programming-Language"
+  },
+  ".yaml": {
+    "Extension": ".yaml",
+    "FullName": "YAML Ain't Markup Language",
+    "Description": "A human-readable data serialization format, \n\n often used for configuration files and data exchange between languages with different data structures.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".cpp": {
+    "Extension": ".cpp",
+    "FullName": "C++ Source Code File",
+    "Description": "A file containing C++ source code. \n\n C++ is an object-oriented programming language widely used for system and application software.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".cs": {
+    "Extension": ".cs",
+    "FullName": "C# Source Code File",
+    "Description": "A file containing source code written in C#, \n\n a programming language developed by Microsoft for the .NET framework.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".lua": {
+    "Extension": ".lua",
+    "FullName": "Lua Script File",
+    "Description": "A file containing Lua source code, \n\n a lightweight scripting language used for embedded systems and gaming development.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".php": {
+    "Extension": ".php",
+    "FullName": "PHP Script",
+    "Description": "A file containing PHP (Hypertext Preprocessor) source code. \n\n PHP is a popular server-side scripting language used in web development.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  },
+  ".go": {
+    "Extension": ".go",
+    "FullName": "Go Source File",
+    "Description": "A file containing Go source code.",
+    "Group": "Windows OS, macOS, Linux OS, Programming-Language"
+  }
+}
